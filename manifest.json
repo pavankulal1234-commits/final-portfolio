@@ -1,0 +1,10 @@
+{
+  "name": "Pavan Portfolio",
+  "short_name": "Pavan",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#00ffcc",
+  "theme_color": "#00ffcc",
+  "description": "Personal portfolio and projects",
+  "icons": []
+}
